@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\bin\Debug\netcoreapp3.1\Polymorphism2.exe
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\obj\Debug\netcoreapp3.1\Polymorphism2.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\obj\Debug\netcoreapp3.1\Polymorphism2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\obj\Debug\netcoreapp3.1\Polymorphism2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\obj\Debug\netcoreapp3.1\Polymorphism2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\bin\Debug\netcoreapp3.1\Polymorphism2.deps.json
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\bin\Debug\netcoreapp3.1\Polymorphism2.runtimeconfig.json
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\bin\Debug\netcoreapp3.1\Polymorphism2.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\bin\Debug\netcoreapp3.1\Polymorphism2.dll
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\bin\Debug\netcoreapp3.1\Polymorphism2.pdb
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\obj\Debug\netcoreapp3.1\Polymorphism2.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\obj\Debug\netcoreapp3.1\Polymorphism2.dll
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\obj\Debug\netcoreapp3.1\Polymorphism2.pdb
+C:\Users\ASUS\source\repos\Polymorphism2\Polymorphism2\obj\Debug\netcoreapp3.1\Polymorphism2.genruntimeconfig.cache

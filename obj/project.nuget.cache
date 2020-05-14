@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "StiJO0SUHxg2yadpF07NKcruaSuM3VUGlQuif64I9b+IMrR2XzSHAWuNkhLDi/FK9a5edtmooG1CNAPu7i9wRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Polymorphism2\\Polymorphism2\\Polymorphism2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
